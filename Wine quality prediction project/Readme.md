@@ -113,3 +113,22 @@ To build a classification model that can determine whether a wine is of good qua
 ---
 
 ## 📂 Project Structure
+wine-quality-prediction/
+│
+├── winequality-red.csv
+├── notebook.ipynb
+├── README.md
+
+
+---
+
+## 👨‍💻 Author
+
+**Krish**  
+B.Tech Student  
+
+---
+
+## ⭐ Acknowledgement
+
+Dataset provided by UCI Machine Learning Repository.
