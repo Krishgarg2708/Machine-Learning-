@@ -106,10 +106,6 @@ To build a classification model that can determine whether a wine is of good qua
 
 ---
 
-## 📷 Project Preview
-
-(Add your images here if uploading to GitHub)
-
 ---
 
 ## 📂 Project Structure
